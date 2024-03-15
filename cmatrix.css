@@ -1,0 +1,19 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    background-color: #F0F0F0; /* Light gray background */
+    color: #0287FF; /* AI Integrations brand blue for the text */
+    font-family: monospace;
+  }
+  
+  .matrix {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .column {
+    white-space: pre;
+  }
+  
